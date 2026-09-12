@@ -78,10 +78,6 @@ Actionable recommendations include:
 Task-4-Data-Storytelling-Statistical-Validation/
 │
 ├── README.md
-├── presentation/
-│   └── Task_4_Final_Presentation.pptx
-│   └── Task_4_Final_Presentation.pdf
-├── statistics/
-│   └── hypothesis_testing_summary.md
-└── insights/
-    └── business_recommendations.md
+├──Presentation.pptx
+
+
